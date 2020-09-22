@@ -1,0 +1,49 @@
+
+September 22, 2020, 13:22:31
+Running Homer3 v1.25.5
+
+====
+RAM:
+====
+Total     : 8.5 GB
+Available : 1.8 GB
+
+Opened application config file C:/Users/nicop/Desktop/Homer3-master (3)/Github/Homer3/AppSettings.cfg
+
+MainGUI: September 22, 2020, 13:22:35 -  Will load group folder #1 - C:/Users/nicop/Desktop/Homer3-master (3)/Github/Homer3/
+
+Current GroupClass version 1.2
+Current GroupClass version 1.2
+
+Added group Homer3 to dataTree.
+   Added subject SubjDataSample to group Homer3.
+
+Loaded acquisition data in 1.1 seconds
+
+Saving processed data in C:/Users/nicop/Desktop/Homer3-master (3)/Github/Homer3/groupResults.mat
+Current GroupClass version 1.2
+Attempting to load proc stream from C:/Users/nicop/Desktop/Homer3-master (3)/Github/Homer3/processOpt_default.cfg
+Loading proc stream from C:/Users/nicop/Desktop/Homer3-master (3)/Github/Homer3/processOpt_default.cfg
+Loaded data set in 7.0 seconds
+Loaded saved registry C:/Users/nicop/Desktop/Homer3-master (3)/Github/Homer3/FuncRegistry/UserFunctions/Registry.mat
+Displaying channels [] in data blocks [1]
+
+Logger: Chapter 1
+
+MainGUI: September 22, 2020, 13:23:10 - Startup time - 34.8 seconds
+
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Processing iGroup=1, iSubj=1, iRun=1
+Saving group 1 in C:/Users/nicop/Desktop/Homer3-master (3)/Github/Homer3/groupResults.mat
+Saving processed data in C:/Users/nicop/Desktop/Homer3-master (3)/Github/Homer3/groupResults.mat
+Auto-saving processing results ...
+Current GroupClass version 1.2
+Completed saving groupResults.mat for all groups in 1.398 seconds.
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
+Displaying channels [1  2] in data blocks [1]
